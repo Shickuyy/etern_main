@@ -1,0 +1,19 @@
+.flash-messages {
+    margin-bottom: 20px;
+}
+
+.flash-error {
+    color: #ff6b6b;
+    padding: 10px;
+    background-color: #2e1a1a;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.flash-success {
+    color: #6bff6b;
+    padding: 10px;
+    background-color: #1a2e1a;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
